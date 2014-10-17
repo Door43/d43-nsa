@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nsa:home|Door43 (nsa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nsa|d43-nsa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nsa/archive/master.zip|d43-nsa.zip]]
+
+**Recent Changes**
+{{changes>ns = nsa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nsa|Ethnologue data]]
+
